@@ -127,7 +127,7 @@
       "minAge": 20,
       "maxAge": 50,
       "moveInDate": "2023/06/21",
-      "lifeEquipment": ["公園", "商圈"],
+      "lifeEquipment": ["公園", "百貨公司"],
       "traffic": ["士林公車站", "芝山捷運站"],
       "intro": "...",
       "photo": [
@@ -175,7 +175,7 @@
       "minAge": 18,
       "maxAge": 50,
       "moveInDate": "2023/12/1",
-      "lifeEquipment": ["商圈", "捷運站"],
+      "lifeEquipment": ["百貨公司", "捷運站"],
       "traffic": ["臺北車站", "捷運站"],
       "intro": "...",
       "photo": [
@@ -221,7 +221,7 @@
       "minAge": 18,
       "maxAge": 35,
       "moveInDate": "2023/11/30",
-      "lifeEquipment": ["商圈", "學校"],
+      "lifeEquipment": ["百貨公司", "學校"],
       "traffic": ["臺中火車站", "五權學士路口公車站"],
       "intro": "...",
       "photo":[
