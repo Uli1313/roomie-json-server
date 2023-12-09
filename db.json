@@ -608,19 +608,19 @@
     },
     {
       "id": 3,
-      "email": "test2@gmail.com",
-      "password": "$2a$10$nvmuXHTJibomRm/vdx1j6OrftYIm2vS..PO8h3fzh/yRgMCSZl57C",
+      "email": "peaqoo@gmail.com",
+      "password": "$2a$10$ShB7whDkW45gmgYo34D0Ju.oH40COhAB1pI5uCd2QJJsJCs8/O4pO",
       "name": "陳大大",
-      "nickname": "yaaaa",
+      "nickname": "egg",
       "gender": "女性",
       "photo": "...",
       "contact": {
         "person": ["陳", "小姐"],
         "phone": "0911-111-333",
-        "email": "test2@gmail.com",
+        "email": "peaqoo@gmail.com",
         "line": "efg1234"
       },
-      "about": "你好你好我叫 yaaaa"
+      "about": "hi hi hi"
     }
   ],
  "news": [
