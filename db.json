@@ -231,9 +231,7 @@
         "https://img1.591.com.tw/house/2023/07/06/168865688929973703.jpg!750x588.water2.jpg",
         "https://img2.591.com.tw/house/2023/07/06/168865689265237508.jpg!750x588.water2.jpg"],
       "agreePublish": true
-    }
-  ],
-  "matchs":[
+    },
     {
       "id": 6,
       "userId": 2,
@@ -288,12 +286,12 @@
       "updateDate": "2023/05/05 11:20",
       "soldDate": "2023/07/18",
       "view": 550,
-      "address": "台北市",
+      "address": "臺北市",
       "district": ["中山區", "中山北路"],
       "floor": 6,
       "totalFloor": 10,
       "type": "獨立套房",
-      "title": "台北市市中心獨立套房",
+      "title": "臺北市市中心獨立套房",
       "square Footage": 25,
       "houseLayout": "2房1廳1衛",
       "equipment": [
@@ -335,12 +333,12 @@
       "updateDate": "2023/09/18 14:50",
       "soldDate": "2023/12/09",
       "view": 480,
-      "address": "台北市",
+      "address": "臺北市",
       "district": ["信義區", "信義路"],
       "floor": 12,
       "totalFloor": 15,
       "type": "雅房",
-      "title": "台北市雅房求室友",
+      "title": "臺北市雅房求室友",
       "square Footage": 12,
       "houseLayout": "2房1衛",
       "equipment": [
@@ -381,12 +379,12 @@
       "updateDate": "2023/11/25 16:30",
       "soldDate": "2023/12/01",
       "view": 380,
-      "address": "台中市",
+      "address": "臺中市",
       "district": ["西屯區", "文心路"],
       "floor": 4,
       "totalFloor": 6,
       "type": "獨立套房",
-      "title": "台中市套房找室友",
+      "title": "臺中市套房找室友",
       "square Footage": 18,
       "houseLayout": "2房1廳1衛",
       "equipment": [
