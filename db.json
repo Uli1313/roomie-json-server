@@ -598,6 +598,22 @@
         "line": "efg1234"
       },
       "about": "你好你好我叫 yaaaa"
+    },
+    {
+      "id": 3,
+      "email": "test2@gmail.com",
+      "password": "$2a$10$nvmuXHTJibomRm/vdx1j6OrftYIm2vS..PO8h3fzh/yRgMCSZl57C",
+      "name": "陳大大",
+      "nickname": "yaaaa",
+      "gender": "女性",
+      "photo": "...",
+      "contact": {
+        "person": ["陳", "小姐"],
+        "phone": "0911-111-333",
+        "email": "test2@gmail.com",
+        "line": "efg1234"
+      },
+      "about": "你好你好我叫 yaaaa"
     }
   ],
  "news": [
@@ -641,14 +657,18 @@
   "contacts": [
     {
       "id": 1,
+      "userId":1,
       "email": "test11@gmail.com",
       "name": "劉大大",
+      "isReply":false,
       "content": "謝謝你們提供的服務，我成功找到一同合租工作室的人了！作為一名用戶,我一直以來都感到非常滿意和愉快。使用平台的過程帶來了很大的便利,我相信它可以繼續發展壯大,提供更多優秀的功能。"
     },
     {
       "id": 2,
+      "userId":2,
       "email": "test12@gmail.com",
       "name": "吳大大",
+      "isReply":false,
       "content": "平台可以嘗試建立更多的社區互動功能,以促進用戶之間的交流。例如,舉辦定期的社交活動或線上討論會,讓用戶能夠更深入地了解彼此,進一步確認是否適合成為合租人。這樣的社區互動可以增加平台的價值,並創建更具吸引力的社交網絡。"
     }
   ],
