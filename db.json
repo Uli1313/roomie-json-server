@@ -707,6 +707,22 @@
         "line": "efg1234"
       },
       "about": "你好你好我叫 yaaaa"
+    },
+    {
+      "email": "ttttest231206@gmail.com",
+      "password": "$2a$10$a3LVyNXqYru6guSo9bqaiOrBlw5N0DplRToCSgdClOwWseAxi0vee",
+      "name": "Uli",
+      "nickname": "Uliyo",
+      "gender": "female",
+      "photo": "",
+      "contact": {
+        "person": ["", ""],
+        "phone": "",
+        "email": "",
+        "line": ""
+      },
+      "about": "測試測試",
+      "id": 4
     }
   ],
  "news": [
