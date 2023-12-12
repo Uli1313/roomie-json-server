@@ -790,7 +790,7 @@
       "name": "陳大大",
       "nickname": "egg",
       "gender": "女性",
-      "photo": "...",
+      "photo": "https://i.imgur.com/rUTLxZC.jpg",
       "contact": {
         "person": ["陳", "小姐"],
         "phone": "0911-111-333",
@@ -806,7 +806,7 @@
       "name": "陳大華",
       "nickname": "Beeee",
       "gender": "男性",
-      "photo": "...",
+      "photo": "https://i.imgur.com/rUTLxZC.jpg",
       "contact": {
         "person": ["張", "先生"],
         "phone": "0911-111-222",
@@ -822,7 +822,7 @@
       "name": "陳大大",
       "nickname": "yaaaa",
       "gender": "女性",
-      "photo": "...",
+      "photo": "https://i.imgur.com/rUTLxZC.jpg",
       "contact": {
         "person": ["陳", "小姐"],
         "phone": "0911-111-333",
@@ -837,7 +837,7 @@
       "name": "Uli",
       "nickname": "Uliyo",
       "gender": "female",
-      "photo": "",
+      "photo": "https://i.imgur.com/rUTLxZC.jpg",
       "contact": {
         "person": ["", ""],
         "phone": "",
