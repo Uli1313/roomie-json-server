@@ -719,6 +719,22 @@
       "date": "2023/08/20",
       "content": "洗衣機是投幣式的嗎?一次多少元?",
       "isReply":false
+    },
+    {
+      "id": 7,
+      "rentId": 7,
+      "userId": 1,
+      "date": "2023/11/20",
+      "content": "附近有停車格媽",
+      "isReply":false
+    },
+    {
+      "id": 8,
+      "rentId": 8,
+      "userId": 2,
+      "date": "2023/12/01",
+      "content": "包含管理費嗎",
+      "isReply":false
     }
   ],
   "favorites": [
